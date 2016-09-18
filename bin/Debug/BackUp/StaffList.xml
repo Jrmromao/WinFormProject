@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<ArrayOfCGeneralStaff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CGeneralStaff>
+    <m_firstname>Mark</m_firstname>
+    <m_surname>Ryan</m_surname>
+    <m_address>Moyross</m_address>
+    <m_phonenumber>0857031831</m_phonenumber>
+    <m_staffid>jkhlkjh,kjlhkjl</m_staffid>
+    <m_datehired>2008-08-01T14:50:50.42</m_datehired>
+    <m_salarie>5313132</m_salarie>
+    <m_username>user</m_username>
+    <m_password>1234</m_password>
+    <Staff_id>2</Staff_id>
+  </CGeneralStaff>
+  <CGeneralStaff>
+    <m_firstname>John</m_firstname>
+    <m_surname>Franklin</m_surname>
+    <m_address>John</m_address>
+    <m_phonenumber>John</m_phonenumber>
+    <m_staffid>k003125</m_staffid>
+    <m_datehired>2008-08-01T14:50:50.42</m_datehired>
+    <m_salarie>65000</m_salarie>
+    <m_username>NewUser</m_username>
+    <m_password>5321</m_password>
+    <Staff_id>3</Staff_id>
+  </CGeneralStaff>
+  <CGeneralStaff>
+    <m_firstname>General</m_firstname>
+    <m_surname>NotDtaff</m_surname>
+    <m_address>1234</m_address>
+    <m_phonenumber>9969</m_phonenumber>
+    <m_staffid />
+    <m_datehired>2016-04-20T13:41:00.5672187+01:00</m_datehired>
+    <m_salarie>65400</m_salarie>
+    <m_username>General</m_username>
+    <m_password>1234</m_password>
+    <Staff_id>4</Staff_id>
+  </CGeneralStaff>
+</ArrayOfCGeneralStaff>

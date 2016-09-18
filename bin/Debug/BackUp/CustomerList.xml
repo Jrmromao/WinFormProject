@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<ArrayOfCCustomer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CCustomer>
+    <m_firstname>Michael</m_firstname>
+    <m_surname>Franklin</m_surname>
+    <m_address>32 Kileely Road
+Limerick Ireland</m_address>
+    <m_phonenumber>0857407758</m_phonenumber>
+    <m_emailaddress />
+    <m_fees>0</m_fees>
+    <m_overduefees>3.5</m_overduefees>
+    <m_membershipfees>6</m_membershipfees>
+    <m_hasGame>false</m_hasGame>
+    <m_gameName />
+  </CCustomer>
+  <CCustomer>
+    <m_firstname>Mike</m_firstname>
+    <m_surname>Mike</m_surname>
+    <m_address>3213</m_address>
+    <m_phonenumber>21321</m_phonenumber>
+    <m_emailaddress />
+    <m_fees>0</m_fees>
+    <m_overduefees>1321</m_overduefees>
+    <m_membershipfees>32132</m_membershipfees>
+    <m_hasGame>false</m_hasGame>
+    <m_gameName />
+  </CCustomer>
+  <CCustomer>
+    <m_firstname>Mark</m_firstname>
+    <m_surname>Franklin</m_surname>
+    <m_address>Kileely</m_address>
+    <m_phonenumber>321</m_phonenumber>
+    <m_emailaddress />
+    <m_fees>0</m_fees>
+    <m_overduefees>154</m_overduefees>
+    <m_membershipfees>321</m_membershipfees>
+    <m_hasGame>false</m_hasGame>
+    <m_gameName />
+  </CCustomer>
+  <CCustomer>
+    <m_firstname>User</m_firstname>
+    <m_surname>User</m_surname>
+    <m_address>User</m_address>
+    <m_phonenumber>123</m_phonenumber>
+    <m_emailaddress>user@user.com</m_emailaddress>
+    <m_fees>0</m_fees>
+    <m_overduefees>123</m_overduefees>
+    <m_membershipfees>123</m_membershipfees>
+    <m_hasGame>false</m_hasGame>
+    <m_gameName />
+  </CCustomer>
+  <CCustomer>
+    <m_firstname>xml</m_firstname>
+    <m_surname>xml</m_surname>
+    <m_address>xml</m_address>
+    <m_phonenumber>085</m_phonenumber>
+    <m_emailaddress>xml@xml.com</m_emailaddress>
+    <m_fees>0</m_fees>
+    <m_overduefees>3211</m_overduefees>
+    <m_membershipfees>21</m_membershipfees>
+    <m_hasGame>false</m_hasGame>
+    <m_gameName />
+  </CCustomer>
+  <CCustomer>
+    <m_firstname>1</m_firstname>
+    <m_surname>1</m_surname>
+    <m_address>1</m_address>
+    <m_phonenumber>1</m_phonenumber>
+    <m_emailaddress>1</m_emailaddress>
+    <m_fees>0</m_fees>
+    <m_overduefees>1</m_overduefees>
+    <m_membershipfees>1</m_membershipfees>
+    <m_hasGame>false</m_hasGame>
+    <m_gameName />
+  </CCustomer>
+</ArrayOfCCustomer>

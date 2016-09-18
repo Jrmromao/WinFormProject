@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<ArrayOfCGeneralStaff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CGeneralStaff>
+    <m_firstname>John</m_firstname>
+    <m_surname>Wayne</m_surname>
+    <m_address>London</m_address>
+    <m_phonenumber>0857031897</m_phonenumber>
+    <m_datehired>2008-08-01T14:50:50.42</m_datehired>
+    <m_salarie>35000</m_salarie>
+    <m_username>user</m_username>
+    <m_password>1234</m_password>
+    <Staff_id>1</Staff_id>
+  </CGeneralStaff>
+  <CGeneralStaff>
+    <m_firstname>Uamhan</m_firstname>
+    <m_surname>Mac Fhearghusa</m_surname>
+    <m_address>123 street</m_address>
+    <m_phonenumber>0877807890</m_phonenumber>
+    <m_datehired>2016-04-21T12:26:34.7280271+01:00</m_datehired>
+    <m_salarie>100000000</m_salarie>
+    <m_username>uamhan</m_username>
+    <m_password>password</m_password>
+    <Staff_id>2094834</Staff_id>
+  </CGeneralStaff>
+  <CGeneralStaff>
+    <m_firstname>fdsf</m_firstname>
+    <m_surname>sdfsd</m_surname>
+    <m_address>1234</m_address>
+    <m_phonenumber>1234</m_phonenumber>
+    <m_datehired>2016-04-22T14:47:50.2038608+01:00</m_datehired>
+    <m_salarie>1234</m_salarie>
+    <m_username>132</m_username>
+    <m_password>1234</m_password>
+    <Staff_id>2387830</Staff_id>
+  </CGeneralStaff>
+</ArrayOfCGeneralStaff>

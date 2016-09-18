@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<ArrayOfCTransaction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CTransaction>
+    <transaction_id>8188692</transaction_id>
+    <m_custid>3</m_custid>
+    <m_gameid>2</m_gameid>
+    <m_rentalfee>3</m_rentalfee>
+    <m_overduefee>0</m_overduefee>
+    <m_rentdate>2016-04-21T15:06:12.7492868+01:00</m_rentdate>
+    <m_returndate>2016-04-21T15:27:38.0729623+01:00</m_returndate>
+    <m_transactionComplete>true</m_transactionComplete>
+  </CTransaction>
+  <CTransaction>
+    <transaction_id>9554262</transaction_id>
+    <m_custid>3</m_custid>
+    <m_gameid>2</m_gameid>
+    <m_rentalfee>3</m_rentalfee>
+    <m_overduefee>0</m_overduefee>
+    <m_rentdate>2016-04-21T15:20:24.5533728+01:00</m_rentdate>
+    <m_returndate>0001-01-01T00:00:00</m_returndate>
+    <m_transactionComplete>false</m_transactionComplete>
+  </CTransaction>
+  <CTransaction>
+    <transaction_id>7146817</transaction_id>
+    <m_custid>3</m_custid>
+    <m_gameid>2</m_gameid>
+    <m_rentalfee>3</m_rentalfee>
+    <m_overduefee>0</m_overduefee>
+    <m_rentdate>2016-04-21T15:27:38.0724621+01:00</m_rentdate>
+    <m_returndate>0001-01-01T00:00:00</m_returndate>
+    <m_transactionComplete>false</m_transactionComplete>
+  </CTransaction>
+</ArrayOfCTransaction>

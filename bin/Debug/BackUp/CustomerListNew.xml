@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCCustomer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CCustomer>
+    <m_firstname>Mark</m_firstname>
+    <m_surname>Franklin</m_surname>
+    <m_address>Kileely</m_address>
+    <m_phonenumber>12</m_phonenumber>
+    <_id>0</_id>
+    <m_emailaddress>12</m_emailaddress>
+    <m_fees>0</m_fees>
+    <m_overduefees>12</m_overduefees>
+    <m_membershipfees>12</m_membershipfees>
+    <m_hasGame>false</m_hasGame>
+    <m_gameName />
+  </CCustomer>
+  <CCustomer>
+    <m_firstname>John</m_firstname>
+    <m_surname>Wayne</m_surname>
+    <m_address>Limerick</m_address>
+    <m_phonenumber>0857310921</m_phonenumber>
+    <_id>1</_id>
+    <m_emailaddress>email@email.com</m_emailaddress>
+    <m_fees>0</m_fees>
+    <m_overduefees>321</m_overduefees>
+    <m_membershipfees>321</m_membershipfees>
+    <m_hasGame>false</m_hasGame>
+    <m_gameName />
+  </CCustomer>
+  <CCustomer>
+    <m_firstname>12</m_firstname>
+    <m_surname>12</m_surname>
+    <m_address>Dublin</m_address>
+    <m_phonenumber>2</m_phonenumber>
+    <_id>2</_id>
+    <m_emailaddress>john@microsoft.com</m_emailaddress>
+    <m_fees>0</m_fees>
+    <m_overduefees>12</m_overduefees>
+    <m_membershipfees>12</m_membershipfees>
+    <m_hasGame>false</m_hasGame>
+    <m_gameName />
+  </CCustomer>
+  <CCustomer>
+    <m_firstname>12</m_firstname>
+    <m_surname>12</m_surname>
+    <m_address>Limerick</m_address>
+    <m_phonenumber>3</m_phonenumber>
+    <_id>3</_id>
+    <m_emailaddress>12</m_emailaddress>
+    <m_fees>0</m_fees>
+    <m_overduefees>12</m_overduefees>
+    <m_membershipfees>12</m_membershipfees>
+    <m_hasGame>false</m_hasGame>
+    <m_gameName />
+  </CCustomer>
+  <CCustomer>
+    <m_firstname>6</m_firstname>
+    <m_surname>6</m_surname>
+    <m_address>6</m_address>
+    <m_phonenumber>6</m_phonenumber>
+    <_id>4</_id>
+    <m_emailaddress>96</m_emailaddress>
+    <m_fees>0</m_fees>
+    <m_overduefees>6</m_overduefees>
+    <m_membershipfees>6</m_membershipfees>
+    <m_hasGame>false</m_hasGame>
+    <m_gameName />
+  </CCustomer>
+  <CCustomer>
+    <m_firstname>new</m_firstname>
+    <m_surname>123</m_surname>
+    <m_address>123</m_address>
+    <m_phonenumber>123</m_phonenumber>
+    <_id>5</_id>
+    <m_emailaddress>654</m_emailaddress>
+    <m_fees>0</m_fees>
+    <m_overduefees>2132</m_overduefees>
+    <m_membershipfees>123</m_membershipfees>
+    <m_hasGame>false</m_hasGame>
+    <m_gameName />
+  </CCustomer>
+</ArrayOfCCustomer>

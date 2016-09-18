@@ -1,0 +1,284 @@
+U:\Project\Project\bin\Debug\Project.exe.config
+U:\Project\Project\bin\Debug\Project.exe
+U:\Project\Project\bin\Debug\Project.pdb
+U:\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+U:\Project\Project\obj\Debug\Project.Form1.resources
+U:\Project\Project\obj\Debug\Project.Properties.Resources.resources
+U:\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+U:\Project\Project\obj\Debug\Project.exe
+U:\Project\Project\obj\Debug\Project.pdb
+U:\Project\Project\obj\Debug\Project.Login.resources
+F:\Project\Project\Project\bin\Debug\Project.exe.config
+F:\Project\Project\Project\obj\Debug\Project.exe
+F:\Project\Project\Project\obj\Debug\Project.pdb
+F:\Project\Project\Project\bin\Debug\Project.exe
+F:\Project\Project\Project\bin\Debug\Project.pdb
+F:\Project\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+F:\Project\Project\Project\obj\Debug\Project.Form1.resources
+F:\Project\Project\Project\obj\Debug\Project.Login.resources
+F:\Project\Project\Project\obj\Debug\Project.Properties.Resources.resources
+F:\Project\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+F:\Project\Project\Project\obj\Debug\Project.CustumerForm.resources
+F:\Project\Project\Project\obj\Debug\Project.CustomerDetails.resources
+H:\Project\Project\Project\bin\Debug\Project.exe.config
+H:\Project\Project\Project\obj\Debug\Project.exe
+H:\Project\Project\Project\obj\Debug\Project.pdb
+H:\Project\Project\Project\bin\Debug\Project.exe
+H:\Project\Project\Project\bin\Debug\Project.pdb
+H:\Project\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+H:\Project\Project\Project\obj\Debug\Project.CustomerDetails.resources
+H:\Project\Project\Project\obj\Debug\Project.CustumerForm.resources
+H:\Project\Project\Project\obj\Debug\Project.Login.resources
+H:\Project\Project\Project\obj\Debug\Project.Properties.Resources.resources
+H:\Project\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+H:\Project\Project\Project\obj\Debug\Project.Resources.Resource1.resources
+H:\Project\Project\Project\obj\Debug\Project.ManagerDashboard.resources
+C:\Users\Mark\Desktop\Project\Project\bin\Debug\Project.exe.config
+C:\Users\Mark\Desktop\Project\Project\obj\Debug\Project.exe
+C:\Users\Mark\Desktop\Project\Project\obj\Debug\Project.pdb
+C:\Users\Mark\Desktop\Project\Project\bin\Debug\Project.exe
+C:\Users\Mark\Desktop\Project\Project\bin\Debug\Project.pdb
+C:\Users\Mark\Desktop\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Desktop\Project\Project\obj\Debug\Project.CustomerDetails.resources
+C:\Users\Mark\Desktop\Project\Project\obj\Debug\Project.ManagerDashboard.resources
+C:\Users\Mark\Desktop\Project\Project\obj\Debug\Project.CustumerForm.resources
+C:\Users\Mark\Desktop\Project\Project\obj\Debug\Project.Login.resources
+C:\Users\Mark\Desktop\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Mark\Desktop\Project\Project\obj\Debug\Project.Resources.Resource1.resources
+C:\Users\Mark\Desktop\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\Mark\Desktop\Project - Copy\Project\bin\Debug\Project.exe.config
+C:\Users\Mark\Desktop\Project - Copy\Project\obj\Debug\Project.exe
+C:\Users\Mark\Desktop\Project - Copy\Project\obj\Debug\Project.pdb
+C:\Users\Mark\Desktop\Project - Copy\Project\bin\Debug\Project.exe
+C:\Users\Mark\Desktop\Project - Copy\Project\bin\Debug\Project.pdb
+C:\Users\Mark\Desktop\Project - Copy\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Desktop\Project - Copy\Project\obj\Debug\Project.CustomerDetails.resources
+C:\Users\Mark\Desktop\Project - Copy\Project\obj\Debug\Project.ManagerDashboard.resources
+C:\Users\Mark\Desktop\Project - Copy\Project\obj\Debug\Project.CustumerForm.resources
+C:\Users\Mark\Desktop\Project - Copy\Project\obj\Debug\Project.Login.resources
+C:\Users\Mark\Desktop\Project - Copy\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Mark\Desktop\Project - Copy\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\Mark\Desktop\Project Main\Project\bin\Debug\Project.exe.config
+C:\Users\Mark\Desktop\Project Main\Project\obj\Debug\Project.exe
+C:\Users\Mark\Desktop\Project Main\Project\obj\Debug\Project.pdb
+C:\Users\Mark\Desktop\Project Main\Project\bin\Debug\Project.exe
+C:\Users\Mark\Desktop\Project Main\Project\bin\Debug\Project.pdb
+C:\Users\Mark\Desktop\Project Main\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Desktop\Project Main\Project\obj\Debug\Project.CustomerDetails.resources
+C:\Users\Mark\Desktop\Project Main\Project\obj\Debug\Project.ManagerDashboard.resources
+C:\Users\Mark\Desktop\Project Main\Project\obj\Debug\Project.CustumerForm.resources
+C:\Users\Mark\Desktop\Project Main\Project\obj\Debug\Project.Login.resources
+C:\Users\Mark\Desktop\Project Main\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Mark\Desktop\Project Main\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+F:\Project Main\Project\bin\Debug\Project.exe.config
+F:\Project Main\Project\obj\Debug\Project.exe
+F:\Project Main\Project\obj\Debug\Project.pdb
+F:\Project Main\Project\bin\Debug\Project.exe
+F:\Project Main\Project\bin\Debug\Project.pdb
+F:\Project Main\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+F:\Project Main\Project\obj\Debug\Project.CustomerDetails.resources
+F:\Project Main\Project\obj\Debug\Project.ManagerDashboard.resources
+F:\Project Main\Project\obj\Debug\Project.CustumerForm.resources
+F:\Project Main\Project\obj\Debug\Project.Login.resources
+F:\Project Main\Project\obj\Debug\Project.Properties.Resources.resources
+F:\Project Main\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\k00199642\Desktop\Project Main\Project\bin\Debug\Project.exe.config
+C:\Users\k00199642\Desktop\Project Main\Project\obj\Debug\Project.exe
+C:\Users\k00199642\Desktop\Project Main\Project\obj\Debug\Project.pdb
+C:\Users\k00199642\Desktop\Project Main\Project\bin\Debug\Project.exe
+C:\Users\k00199642\Desktop\Project Main\Project\bin\Debug\Project.pdb
+C:\Users\k00199642\Desktop\Project Main\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\k00199642\Desktop\Project Main\Project\obj\Debug\Project.CustomerDetails.resources
+C:\Users\k00199642\Desktop\Project Main\Project\obj\Debug\Project.ManagerDashboard.resources
+C:\Users\k00199642\Desktop\Project Main\Project\obj\Debug\Project.CustumerForm.resources
+C:\Users\k00199642\Desktop\Project Main\Project\obj\Debug\Project.Login.resources
+C:\Users\k00199642\Desktop\Project Main\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\k00199642\Desktop\Project Main\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\k00199642\Desktop\projectu5\Project\bin\Debug\Project.exe.config
+C:\Users\k00199642\Desktop\projectu5\Project\obj\Debug\Project.exe
+C:\Users\k00199642\Desktop\projectu5\Project\obj\Debug\Project.pdb
+C:\Users\k00199642\Desktop\projectu5\Project\bin\Debug\Project.exe
+C:\Users\k00199642\Desktop\projectu5\Project\bin\Debug\Project.pdb
+C:\Users\k00199642\Desktop\projectu5\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\k00199642\Desktop\projectu5\Project\obj\Debug\Project.CustomerDetails.resources
+C:\Users\k00199642\Desktop\projectu5\Project\obj\Debug\Project.ManagerDashboard.resources
+C:\Users\k00199642\Desktop\projectu5\Project\obj\Debug\Project.CustumerForm.resources
+C:\Users\k00199642\Desktop\projectu5\Project\obj\Debug\Project.Login.resources
+C:\Users\k00199642\Desktop\projectu5\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\k00199642\Desktop\projectu5\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\k00201738\Desktop\ProjectMain\Project\bin\Debug\Project.exe.config
+C:\Users\k00201738\Desktop\ProjectMain\Project\obj\Debug\Project.exe
+C:\Users\k00201738\Desktop\ProjectMain\Project\obj\Debug\Project.pdb
+C:\Users\k00201738\Desktop\ProjectMain\Project\bin\Debug\Project.exe
+C:\Users\k00201738\Desktop\ProjectMain\Project\bin\Debug\Project.pdb
+C:\Users\k00201738\Desktop\ProjectMain\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\k00201738\Desktop\ProjectMain\Project\obj\Debug\Project.ManagerDashboard.resources
+C:\Users\k00201738\Desktop\ProjectMain\Project\obj\Debug\Project.CustumerForm.resources
+C:\Users\k00201738\Desktop\ProjectMain\Project\obj\Debug\Project.Login.resources
+C:\Users\k00201738\Desktop\ProjectMain\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\k00201738\Desktop\ProjectMain\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\k00201738\Desktop\ProjectMain - Copy\Project\bin\Debug\Project.exe.config
+C:\Users\k00201738\Desktop\ProjectMain - Copy\Project\obj\Debug\Project.exe
+C:\Users\k00201738\Desktop\ProjectMain - Copy\Project\obj\Debug\Project.pdb
+C:\Users\k00201738\Desktop\ProjectMain - Copy\Project\bin\Debug\Project.exe
+C:\Users\k00201738\Desktop\ProjectMain - Copy\Project\bin\Debug\Project.pdb
+C:\Users\k00201738\Desktop\ProjectMain - Copy\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\k00201738\Desktop\ProjectMain - Copy\Project\obj\Debug\Project.CustomerDetails.resources
+C:\Users\k00201738\Desktop\ProjectMain - Copy\Project\obj\Debug\Project.ManagerDashboard.resources
+C:\Users\k00201738\Desktop\ProjectMain - Copy\Project\obj\Debug\Project.CustumerForm.resources
+C:\Users\k00201738\Desktop\ProjectMain - Copy\Project\obj\Debug\Project.Login.resources
+C:\Users\k00201738\Desktop\ProjectMain - Copy\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\k00201738\Desktop\ProjectMain - Copy\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+F:\ProjectVersions\ProjectMain - Copy\Project\bin\Debug\Project.exe.config
+F:\ProjectVersions\ProjectMain - Copy\Project\obj\Debug\Project.exe
+F:\ProjectVersions\ProjectMain - Copy\Project\obj\Debug\Project.pdb
+F:\ProjectVersions\ProjectMain - Copy\Project\bin\Debug\Project.exe
+F:\ProjectVersions\ProjectMain - Copy\Project\bin\Debug\Project.pdb
+F:\ProjectVersions\ProjectMain - Copy\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+F:\ProjectVersions\ProjectMain - Copy\Project\obj\Debug\Project.ManagerDashboard.resources
+F:\ProjectVersions\ProjectMain - Copy\Project\obj\Debug\Project.CustumerForm.resources
+F:\ProjectVersions\ProjectMain - Copy\Project\obj\Debug\Project.Login.resources
+F:\ProjectVersions\ProjectMain - Copy\Project\obj\Debug\Project.Properties.Resources.resources
+F:\ProjectVersions\ProjectMain - Copy\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\Mark\Desktop\ProjectMain\Project\bin\Debug\Project.exe.config
+C:\Users\Mark\Desktop\ProjectMain\Project\obj\Debug\Project.exe
+C:\Users\Mark\Desktop\ProjectMain\Project\obj\Debug\Project.pdb
+C:\Users\Mark\Desktop\ProjectMain\Project\bin\Debug\Project.exe
+C:\Users\Mark\Desktop\ProjectMain\Project\bin\Debug\Project.pdb
+C:\Users\Mark\Desktop\ProjectMain\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Desktop\ProjectMain\Project\obj\Debug\Project.ManagerDashboard.resources
+C:\Users\Mark\Desktop\ProjectMain\Project\obj\Debug\Project.CustumerForm.resources
+C:\Users\Mark\Desktop\ProjectMain\Project\obj\Debug\Project.Login.resources
+C:\Users\Mark\Desktop\ProjectMain\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Mark\Desktop\ProjectMain\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+F:\ProjectVersions\ProjectMain\Project\bin\Debug\Project.exe.config
+F:\ProjectVersions\ProjectMain\Project\obj\Debug\Project.exe
+F:\ProjectVersions\ProjectMain\Project\obj\Debug\Project.pdb
+F:\ProjectVersions\ProjectMain\Project\bin\Debug\Project.exe
+F:\ProjectVersions\ProjectMain\Project\bin\Debug\Project.pdb
+F:\ProjectVersions\ProjectMain\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+F:\ProjectVersions\ProjectMain\Project\obj\Debug\Project.ManagerDashboard.resources
+F:\ProjectVersions\ProjectMain\Project\obj\Debug\Project.CustumerForm.resources
+F:\ProjectVersions\ProjectMain\Project\obj\Debug\Project.Login.resources
+F:\ProjectVersions\ProjectMain\Project\obj\Debug\Project.Properties.Resources.resources
+F:\ProjectVersions\ProjectMain\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+I:\ProjectMain\Project\bin\Debug\Project.exe.config
+I:\ProjectMain\Project\obj\Debug\Project.exe
+I:\ProjectMain\Project\obj\Debug\Project.pdb
+I:\ProjectMain\Project\bin\Debug\Project.exe
+I:\ProjectMain\Project\bin\Debug\Project.pdb
+I:\ProjectMain\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+I:\ProjectMain\Project\obj\Debug\Project.ManagerDashboard.resources
+I:\ProjectMain\Project\obj\Debug\Project.CustumerForm.resources
+I:\ProjectMain\Project\obj\Debug\Project.Login.resources
+I:\ProjectMain\Project\obj\Debug\Project.Properties.Resources.resources
+I:\ProjectMain\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+F:\ProjectMain\Project\bin\Debug\Project.exe.config
+F:\ProjectMain\Project\obj\Debug\Project.exe
+F:\ProjectMain\Project\obj\Debug\Project.pdb
+F:\ProjectMain\Project\bin\Debug\Project.exe
+F:\ProjectMain\Project\bin\Debug\Project.pdb
+F:\ProjectMain\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+F:\ProjectMain\Project\obj\Debug\Project.ManagerDashboard.resources
+F:\ProjectMain\Project\obj\Debug\Project.CustumerForm.resources
+F:\ProjectMain\Project\obj\Debug\Project.Login.resources
+F:\ProjectMain\Project\obj\Debug\Project.Properties.Resources.resources
+F:\ProjectMain\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+U:\ProjectMain\Project\bin\Debug\Project.exe.config
+U:\ProjectMain\Project\obj\Debug\Project.exe
+U:\ProjectMain\Project\obj\Debug\Project.pdb
+U:\ProjectMain\Project\bin\Debug\Project.exe
+U:\ProjectMain\Project\bin\Debug\Project.pdb
+U:\ProjectMain\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+U:\ProjectMain\Project\obj\Debug\Project.ManagerDashboard.resources
+U:\ProjectMain\Project\obj\Debug\Project.CustumerForm.resources
+U:\ProjectMain\Project\obj\Debug\Project.Login.resources
+U:\ProjectMain\Project\obj\Debug\Project.Properties.Resources.resources
+U:\ProjectMain\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\Joao\Desktop\LIT-Year2\OO&GUIProgramming\C#\Project\ProjectMain\Project\bin\Debug\Project.exe.config
+C:\Users\Joao\Desktop\LIT-Year2\OO&GUIProgramming\C#\Project\ProjectMain\Project\obj\Debug\Project.exe
+C:\Users\Joao\Desktop\LIT-Year2\OO&GUIProgramming\C#\Project\ProjectMain\Project\obj\Debug\Project.pdb
+C:\Users\Joao\Desktop\LIT-Year2\OO&GUIProgramming\C#\Project\ProjectMain\Project\bin\Debug\Project.exe
+C:\Users\Joao\Desktop\LIT-Year2\OO&GUIProgramming\C#\Project\ProjectMain\Project\bin\Debug\Project.pdb
+C:\Users\Joao\Desktop\LIT-Year2\OO&GUIProgramming\C#\Project\ProjectMain\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\Joao\Desktop\LIT-Year2\OO&GUIProgramming\C#\Project\ProjectMain\Project\obj\Debug\Project.ManagerDashboard.resources
+C:\Users\Joao\Desktop\LIT-Year2\OO&GUIProgramming\C#\Project\ProjectMain\Project\obj\Debug\Project.CustumerForm.resources
+C:\Users\Joao\Desktop\LIT-Year2\OO&GUIProgramming\C#\Project\ProjectMain\Project\obj\Debug\Project.Login.resources
+C:\Users\Joao\Desktop\LIT-Year2\OO&GUIProgramming\C#\Project\ProjectMain\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Joao\Desktop\LIT-Year2\OO&GUIProgramming\C#\Project\ProjectMain\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+U:\Year 2\OO&GUIProgramming\GroupProject\ProjectMain.MANAGER_VALIDATION\Project\bin\Debug\Project.exe.config
+U:\Year 2\OO&GUIProgramming\GroupProject\ProjectMain.MANAGER_VALIDATION\Project\obj\Debug\Project.exe
+U:\Year 2\OO&GUIProgramming\GroupProject\ProjectMain.MANAGER_VALIDATION\Project\obj\Debug\Project.pdb
+U:\Year 2\OO&GUIProgramming\GroupProject\ProjectMain.MANAGER_VALIDATION\Project\obj\Debug\Project.ManagerDashboard.resources
+U:\Year 2\OO&GUIProgramming\GroupProject\ProjectMain.MANAGER_VALIDATION\Project\obj\Debug\Project.CustumerForm.resources
+U:\Year 2\OO&GUIProgramming\GroupProject\ProjectMain.MANAGER_VALIDATION\Project\obj\Debug\Project.Login.resources
+U:\Year 2\OO&GUIProgramming\GroupProject\ProjectMain.MANAGER_VALIDATION\Project\obj\Debug\Project.Properties.Resources.resources
+U:\Year 2\OO&GUIProgramming\GroupProject\ProjectMain.MANAGER_VALIDATION\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+U:\Year 2\OO&GUIProgramming\GroupProject\ProjectMain.MANAGER_VALIDATION\Project\bin\Debug\Project.exe
+U:\Year 2\OO&GUIProgramming\GroupProject\ProjectMain.MANAGER_VALIDATION\Project\bin\Debug\Project.pdb
+U:\Year 2\OO&GUIProgramming\GroupProject\ProjectMain.MANAGER_VALIDATION_FINAL\Project\bin\Debug\Project.exe.config
+U:\Year 2\OO&GUIProgramming\GroupProject\ProjectMain.MANAGER_VALIDATION_FINAL\Project\obj\Debug\Project.exe
+U:\Year 2\OO&GUIProgramming\GroupProject\ProjectMain.MANAGER_VALIDATION_FINAL\Project\obj\Debug\Project.pdb
+U:\Year 2\OO&GUIProgramming\GroupProject\ProjectMain.MANAGER_VALIDATION_FINAL\Project\bin\Debug\Project.exe
+U:\Year 2\OO&GUIProgramming\GroupProject\ProjectMain.MANAGER_VALIDATION_FINAL\Project\bin\Debug\Project.pdb
+U:\Year 2\OO&GUIProgramming\GroupProject\ProjectMain.MANAGER_VALIDATION_FINAL\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+U:\Year 2\OO&GUIProgramming\GroupProject\ProjectMain.MANAGER_VALIDATION_FINAL\Project\obj\Debug\Project.ManagerDashboard.resources
+U:\Year 2\OO&GUIProgramming\GroupProject\ProjectMain.MANAGER_VALIDATION_FINAL\Project\obj\Debug\Project.CustumerForm.resources
+U:\Year 2\OO&GUIProgramming\GroupProject\ProjectMain.MANAGER_VALIDATION_FINAL\Project\obj\Debug\Project.Login.resources
+U:\Year 2\OO&GUIProgramming\GroupProject\ProjectMain.MANAGER_VALIDATION_FINAL\Project\obj\Debug\Project.Properties.Resources.resources
+U:\Year 2\OO&GUIProgramming\GroupProject\ProjectMain.MANAGER_VALIDATION_FINAL\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\ProjectMain.MANAGER_VALIDATION_FINAL\ProjectMain.MANAGER_VALIDATION_FINAL\Project\bin\Debug\Project.exe.config
+C:\Users\user\Desktop\ProjectMain.MANAGER_VALIDATION_FINAL\ProjectMain.MANAGER_VALIDATION_FINAL\Project\obj\Debug\Project.exe
+C:\Users\user\Desktop\ProjectMain.MANAGER_VALIDATION_FINAL\ProjectMain.MANAGER_VALIDATION_FINAL\Project\obj\Debug\Project.pdb
+C:\Users\user\Desktop\ProjectMain.MANAGER_VALIDATION_FINAL\ProjectMain.MANAGER_VALIDATION_FINAL\Project\bin\Debug\Project.exe
+C:\Users\user\Desktop\ProjectMain.MANAGER_VALIDATION_FINAL\ProjectMain.MANAGER_VALIDATION_FINAL\Project\bin\Debug\Project.pdb
+C:\Users\user\Desktop\ProjectMain.MANAGER_VALIDATION_FINAL\ProjectMain.MANAGER_VALIDATION_FINAL\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\ProjectMain.MANAGER_VALIDATION_FINAL\ProjectMain.MANAGER_VALIDATION_FINAL\Project\obj\Debug\Project.ManagerDashboard.resources
+C:\Users\user\Desktop\ProjectMain.MANAGER_VALIDATION_FINAL\ProjectMain.MANAGER_VALIDATION_FINAL\Project\obj\Debug\Project.CustumerForm.resources
+C:\Users\user\Desktop\ProjectMain.MANAGER_VALIDATION_FINAL\ProjectMain.MANAGER_VALIDATION_FINAL\Project\obj\Debug\Project.Login.resources
+C:\Users\user\Desktop\ProjectMain.MANAGER_VALIDATION_FINAL\ProjectMain.MANAGER_VALIDATION_FINAL\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\user\Desktop\ProjectMain.MANAGER_VALIDATION_FINAL\ProjectMain.MANAGER_VALIDATION_FINAL\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\Mark\Desktop\Uamhans.Complete\Project\bin\Debug\Project.exe.config
+C:\Users\Mark\Desktop\Uamhans.Complete\Project\obj\Debug\Project.exe
+C:\Users\Mark\Desktop\Uamhans.Complete\Project\obj\Debug\Project.pdb
+C:\Users\Mark\Desktop\Uamhans.Complete\Project\bin\Debug\Project.exe
+C:\Users\Mark\Desktop\Uamhans.Complete\Project\bin\Debug\Project.pdb
+C:\Users\Mark\Desktop\Uamhans.Complete\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Desktop\Uamhans.Complete\Project\obj\Debug\Project.ManagerDashboard.resources
+C:\Users\Mark\Desktop\Uamhans.Complete\Project\obj\Debug\Project.CustumerForm.resources
+C:\Users\Mark\Desktop\Uamhans.Complete\Project\obj\Debug\Project.Login.resources
+C:\Users\Mark\Desktop\Uamhans.Complete\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Mark\Desktop\Uamhans.Complete\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+U:\ProjectMainTransactionsComplete\Project\bin\Debug\Project.exe.config
+U:\ProjectMainTransactionsComplete\Project\obj\Debug\Project.exe
+U:\ProjectMainTransactionsComplete\Project\obj\Debug\Project.pdb
+U:\ProjectMainTransactionsComplete\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+U:\ProjectMainTransactionsComplete\Project\obj\Debug\Project.ManagerDashboard.resources
+U:\ProjectMainTransactionsComplete\Project\obj\Debug\Project.CustumerForm.resources
+U:\ProjectMainTransactionsComplete\Project\obj\Debug\Project.Login.resources
+U:\ProjectMainTransactionsComplete\Project\obj\Debug\Project.Properties.Resources.resources
+U:\ProjectMainTransactionsComplete\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+U:\ProjectMainTransactionsComplete\Project\bin\Debug\Project.exe
+U:\ProjectMainTransactionsComplete\Project\bin\Debug\Project.pdb
+U:\Year 2\OO&GUIProgramming\ProjectMainlatest\Project\bin\Debug\Project.exe.config
+U:\Year 2\OO&GUIProgramming\ProjectMainlatest\Project\obj\Debug\Project.exe
+U:\Year 2\OO&GUIProgramming\ProjectMainlatest\Project\obj\Debug\Project.pdb
+U:\Year 2\OO&GUIProgramming\ProjectMainlatest\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+U:\Year 2\OO&GUIProgramming\ProjectMainlatest\Project\obj\Debug\Project.ManagerDashboard.resources
+U:\Year 2\OO&GUIProgramming\ProjectMainlatest\Project\obj\Debug\Project.CustumerForm.resources
+U:\Year 2\OO&GUIProgramming\ProjectMainlatest\Project\obj\Debug\Project.Login.resources
+U:\Year 2\OO&GUIProgramming\ProjectMainlatest\Project\obj\Debug\Project.Properties.Resources.resources
+U:\Year 2\OO&GUIProgramming\ProjectMainlatest\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+U:\Year 2\OO&GUIProgramming\ProjectMainlatest\Project\bin\Debug\Project.exe
+U:\Year 2\OO&GUIProgramming\ProjectMainlatest\Project\bin\Debug\Project.pdb
+C:\Users\Joao\Desktop\ProjectMainlatest\ProjectMainlatest\Project\bin\Debug\Project.exe.config
+C:\Users\Joao\Desktop\ProjectMainlatest\ProjectMainlatest\Project\obj\Debug\Project.exe
+C:\Users\Joao\Desktop\ProjectMainlatest\ProjectMainlatest\Project\obj\Debug\Project.pdb
+C:\Users\Joao\Desktop\ProjectMainlatest\ProjectMainlatest\Project\bin\Debug\Project.exe
+C:\Users\Joao\Desktop\ProjectMainlatest\ProjectMainlatest\Project\bin\Debug\Project.pdb
+C:\Users\Joao\Desktop\ProjectMainlatest\ProjectMainlatest\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\Joao\Desktop\ProjectMainlatest\ProjectMainlatest\Project\obj\Debug\Project.ManagerDashboard.resources
+C:\Users\Joao\Desktop\ProjectMainlatest\ProjectMainlatest\Project\obj\Debug\Project.CustumerForm.resources
+C:\Users\Joao\Desktop\ProjectMainlatest\ProjectMainlatest\Project\obj\Debug\Project.Login.resources
+C:\Users\Joao\Desktop\ProjectMainlatest\ProjectMainlatest\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Joao\Desktop\ProjectMainlatest\ProjectMainlatest\Project\obj\Debug\Project.csproj.GenerateResource.Cache

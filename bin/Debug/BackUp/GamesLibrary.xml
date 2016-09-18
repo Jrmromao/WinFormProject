@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<ArrayOfGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Game>
+    <m_Gameid>6</m_Gameid>
+    <m_ConsoleType>Playstation 4</m_ConsoleType>
+    <gameName>Call Of Duty</gameName>
+    <publisher>Activision</publisher>
+    <yearMade>2015</yearMade>
+    <genre>Shooter</genre>
+    <available>true</available>
+  </Game>
+  <Game>
+    <m_Gameid>7</m_Gameid>
+    <m_ConsoleType>Xbox One</m_ConsoleType>
+    <gameName>Doom</gameName>
+    <publisher>Rare</publisher>
+    <yearMade>2016</yearMade>
+    <genre>Shooter</genre>
+    <available>true</available>
+  </Game>
+  <Game>
+    <m_Gameid>2</m_Gameid>
+    <m_ConsoleType>123</m_ConsoleType>
+    <gameName>123</gameName>
+    <publisher>123</publisher>
+    <yearMade>123</yearMade>
+    <genre>213</genre>
+    <available>true</available>
+  </Game>
+  <Game>
+    <m_Gameid>3</m_Gameid>
+    <m_ConsoleType>console</m_ConsoleType>
+    <gameName>newgame</gameName>
+    <publisher>publisher</publisher>
+    <yearMade>2016</yearMade>
+    <genre>genre</genre>
+    <available>true</available>
+  </Game>
+</ArrayOfGame>

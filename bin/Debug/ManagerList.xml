@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<ArrayOfCManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CManager>
+    <m_firstname>Mark</m_firstname>
+    <m_surname>Franklin</m_surname>
+    <m_address>Kileely</m_address>
+    <m_phonenumber>0857031831</m_phonenumber>
+    <m_datehired>2008-08-01T14:50:50.42</m_datehired>
+    <m_salarie>100000001</m_salarie>
+    <m_username>Manager</m_username>
+    <m_password>1234</m_password>
+    <Manager_id>0</Manager_id>
+  </CManager>
+  <CManager>
+    <m_firstname>Joao</m_firstname>
+    <m_surname>Romao</m_surname>
+    <m_address>Shannon</m_address>
+    <m_phonenumber>0860874000</m_phonenumber>
+    <m_datehired>2016-04-21T10:15:38.5446698+01:00</m_datehired>
+    <m_salarie>100000</m_salarie>
+    <m_username>Boss</m_username>
+    <m_password>1234</m_password>
+    <Manager_id>5493785</Manager_id>
+  </CManager>
+  <CManager>
+    <m_firstname>sdf</m_firstname>
+    <m_surname>sdfsdf</m_surname>
+    <m_address>1234</m_address>
+    <m_phonenumber>1234</m_phonenumber>
+    <m_datehired>2016-04-22T15:06:34.5953153+01:00</m_datehired>
+    <m_salarie>1234</m_salarie>
+    <m_username>sdfsd</m_username>
+    <m_password>1234</m_password>
+    <Manager_id>4593112</Manager_id>
+  </CManager>
+</ArrayOfCManager>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<ArrayOfCManager xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CManager>
+    <m_firstname>Mark</m_firstname>
+    <m_surname>Franklin</m_surname>
+    <m_address>Kileely</m_address>
+    <m_phonenumber>0857031831</m_phonenumber>
+    <m_staffid>K002301735</m_staffid>
+    <m_datehired>2008-08-01T14:50:50.42</m_datehired>
+    <m_salarie>65000</m_salarie>
+    <m_username>Manager</m_username>
+    <m_password>1234</m_password>
+  </CManager>
+</ArrayOfCManager>
